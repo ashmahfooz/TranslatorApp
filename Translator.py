@@ -1,4 +1,4 @@
-import googletrans_new as trans
+import googletrans-new  as trans
 import streamlit as st
 
 # Create a title of the page
